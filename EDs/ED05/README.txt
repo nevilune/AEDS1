@@ -1,1 +1,0 @@
-TODOS os exemplos estão no programa Exemplo0500.c, assim como os exercicios em Exercicio0500.c.
